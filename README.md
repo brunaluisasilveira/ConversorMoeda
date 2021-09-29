@@ -1,5 +1,5 @@
 # "CodeClub Convert Money"
-<p>Projeto executado no curso do CodeClub, aprimorando conhecimentos HTML, CSS, JAVASCRIP, entre outros. (Fazendo a integração de todos)
+<p>Projeto executado no curso do CodeClub, aprimorando conhecimentos HTML, CSS, Javascript, entre outros. (Fazendo a integração de todos)
 
 ### Ajustes e melhorias
 
